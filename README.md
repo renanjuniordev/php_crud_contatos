@@ -17,7 +17,7 @@ Você pode testar uma demonstração do sistema [aqui](http://rjas-contatos.free
 ## Uso
 
 - Acesse a página de login e entre com as credenciais:
-- Email: teste@teste.com
-- Senha: teste
+  - Email: teste@teste.com
+  - Senha: teste
 - Após o login, você poderá gerenciar seus contatos através da interface web.
 
